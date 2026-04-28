@@ -32,7 +32,7 @@ coin-flip-simulator/ │── index.html │── style.css │── script.j
 ## ▶️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/YOUR-USERNAME/coin-flip-simulator.git
+git clone https://github.com/ozrnehir/coin-flip-simulator.git
 
 2. Open the project folder
 
